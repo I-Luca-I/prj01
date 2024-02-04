@@ -2,4 +2,4 @@
 
 echo "hello world!"
 
-echo "goodbye"
+echo "gooderbye"
